@@ -1,0 +1,16 @@
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.csproj.AssemblyReference.cache
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.csproj.GenerateResource.cache
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.AssemblyInfoInputs.cache
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.AssemblyInfo.cs
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.csproj.CoreCompileInputs.cache
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\bin\Debug\netcoreapp3.1\ButtonGame.exe
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\bin\Debug\netcoreapp3.1\ButtonGame.deps.json
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\bin\Debug\netcoreapp3.1\ButtonGame.runtimeconfig.json
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\bin\Debug\netcoreapp3.1\ButtonGame.runtimeconfig.dev.json
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\bin\Debug\netcoreapp3.1\ButtonGame.dll
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\bin\Debug\netcoreapp3.1\ButtonGame.pdb
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.Form1.resources
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.dll
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.pdb
+C:\Users\umpg500046\Desktop\buttonGame\ButtonGame\ButtonGame\obj\Debug\netcoreapp3.1\ButtonGame.genruntimeconfig.cache
